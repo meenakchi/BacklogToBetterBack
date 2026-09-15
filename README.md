@@ -1,5 +1,5 @@
 # Fix your posture, not your backlog
-# Posture Monitor - Real-time Posture Detection
+## Posture Monitor - Real-time Posture Detection
 
 A computer vision project using **MediaPipe** to monitor your posture in real-time. Get alerts when you slouch, track your posture metrics over time, and improve your ergonomics. Made for corporate techy people who spend more time in front of screens than grass!
 
